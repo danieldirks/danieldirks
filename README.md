@@ -18,6 +18,14 @@
 
 <hr/>
 
+#### Some facts about me
+
+⌨️ I have fun modding things like my [system config](https://github.com/danieldirks/dotfiles) and [keyboards](https://github.com/danieldirks/qmk-keymaps)  
+🎮 In my free time I play video games (mostly RPGs and casual FPS)  
+📷 In case of outside activity I likely take my camera with me
+
+<hr/>
+
 <p align="center">
   <a href="https://github.com/topics/spring-boot"><img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white" alt="Spring Boot" /></a>
   <a href="https://github.com/topics/docker"><img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" /></a>
